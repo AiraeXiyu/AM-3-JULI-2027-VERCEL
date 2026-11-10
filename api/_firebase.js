@@ -11,7 +11,7 @@ const VERIFY_URL =
 
 const PURCHASE_TOKEN =
   process.env.AM_PURCHASE_TOKEN ||
-  "ndnccldphehmcdeihplilfed.AO-J1OyW90adCvVh-FjXKdXV_K6wr82pxY7HQC65iRo0UgNuKeqhEOQ9BUN1qIlwXP3kdhdsTUy7pKTdP5jJbTWftXmOsiaMHIZbJtTvNcLHdrWf5wMGHdk";
+  "mmgaobamlahbbeccfplmbkbb.AO-J1OzqG0or_GJJIx-ms8GrTm-jaglCRfhQSRPUZKpl2YspYS-oN7_94uv8RC5vQbvd_Ios2pPDStZ2n7F0hLE3FiOU7HS3R6Fquulv5xLXFECSv4ctElw";
 
 const FIREBASE_INSTANCE_ID_TOKEN =
   process.env.FIREBASE_INSTANCE_ID_TOKEN ||
