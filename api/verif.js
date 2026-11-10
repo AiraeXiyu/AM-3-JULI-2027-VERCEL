@@ -16,7 +16,7 @@ module.exports = async (req, res) => {
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || !magicLink) {
     return sendJson(res, 400, base("error", {
       error: "Both valid email and magicLink fields are required.",
-      expected: { email: "user@example.com", magicLink: "https://...", orderId: "optional custom prefix" }
+      expected: { email: "user@example.com", magicLink: "https://...", orderId: "XIYU CODEX" }
     }));
   }
 
