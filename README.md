@@ -28,7 +28,7 @@ Migrasi API dari Cloudflare Worker ke Vercel Functions. Dashboard mobile-first b
 }
 ```
 
-`orderId` bersifat opsional. Generator mengikuti source Worker: tanpa prefix menggunakan `AixiCodex-GPA....`; jika prefix disediakan, formatnya `prefix-GPA....`, kecuali prefix itu sendiri sudah memuat `GPA.`.
+`orderId` bersifat opsional. Generator mengikuti source: tanpa prefix menggunakan `XIYU CODEX-GPA....`; jika prefix disediakan, formatnya `prefix-GPA....`, kecuali prefix itu sendiri sudah memuat `GPA.`.
 
 ## Environment Variables (opsional)
 
