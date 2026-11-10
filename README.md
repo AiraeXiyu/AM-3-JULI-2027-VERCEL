@@ -24,7 +24,7 @@ Migrasi API dari Cloudflare Worker ke Vercel Functions. Dashboard mobile-first b
 {
   "email": "user@example.com",
   "magicLink": "PASTE_MAGIC_LINK_FROM_EMAIL",
-  "orderId": "optional-custom-prefix"
+  "orderId": "XIYU CODEX"
 }
 ```
 
