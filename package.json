@@ -1,0 +1,14 @@
+
+{
+  "name": "xiyu-api-private",
+  "version": "1.0.2",
+  "private": true,
+  "description": "XIYU API PRIVATE",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "build": "node -e \"console.log('Static dashboard and Vercel API functions; no Next.js build required')\"",
+    "vercel-build": "npm run build"
+  }
+}
