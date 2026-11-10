@@ -241,7 +241,7 @@ function generateOrderId(customPrefix = null) {
     `${randomDigits(4)}-${randomDigits(5)}`;
 
   if (!customPrefix || !String(customPrefix).trim()) {
-    return `AixiCodex-${gpa}`;
+    return `XIYU CODEX-${gpa}`;
   }
 
   const clean = String(customPrefix).trim();
