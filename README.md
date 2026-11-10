@@ -39,7 +39,7 @@ Konfigurasi bawaan source dipertahankan di `api/_firebase.js`. Untuk mengganti n
 - `AM_PURCHASE_TOKEN`
 - `FIREBASE_INSTANCE_ID_TOKEN`
 
-Jika variabel tidak diisi, fungsi memakai nilai default yang dibawa dari source Worker. Jangan publikasikan variabel rahasia di dashboard/browser.
+Jika variabel tidak diisi, fungsi memakai nilai default yang dibawa dari source. Jangan publikasikan variabel rahasia di dashboard/browser.
 
 ## Deploy
 
